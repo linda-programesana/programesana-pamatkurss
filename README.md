@@ -1,1 +1,3 @@
 # programesana-pamatkurss
+ 20-20-20 noteikums ir ...
+ lietotājvārds linda-programesana
